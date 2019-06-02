@@ -12,5 +12,6 @@ end
 
 def knowledge
   @knowledge
+  end
 end
 end
